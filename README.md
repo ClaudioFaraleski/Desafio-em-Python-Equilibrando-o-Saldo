@@ -17,9 +17,9 @@ Saída
  Um número decimal que representa o saldo atualizado na conta bancária após o processamento das transações.
 
 Exemplos
-A tabela abaixo apresenta exemplos com alguns dados de entrada e suas respectivas saídas esperadas. Certifique-se de testar seu programa com esses exemplos e com outros casos possíveis.
+A tabela abaixo apresenta exemplos com alguns dados de entrada e suas respectivas saídas esperadas. Certifique-se de testar seu programa com esses exemplos e com outros casos possíveis.</h2>
 
-<p>Entrada	Saída</p>
+<p><h4>Entrada	Saída</p>
 <p>1000</p>
 <p>500</p>
 <p>200</p>
@@ -32,4 +32,4 @@ Saldo atualizado na conta: 60.0</p>
 1500
 200	
 Saldo atualizado na conta: 5300.0
-</p></h2>
+</p></h4>
