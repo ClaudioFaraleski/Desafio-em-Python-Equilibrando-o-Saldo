@@ -22,10 +22,13 @@ A tabela abaixo apresenta exemplos com alguns dados de entrada e suas respectiva
 Entrada	Saída
 1000
 500
-200	Saldo atualizado na conta: 1300.0
+200
+Saldo atualizado na conta: 1300.0
 100
 10
-50	Saldo atualizado na conta: 60.0
+50	
+Saldo atualizado na conta: 60.0
 4000
 1500
-200	Saldo atualizado na conta: 5300.0</h2>
+200	
+Saldo atualizado na conta: 5300.0</h2>
