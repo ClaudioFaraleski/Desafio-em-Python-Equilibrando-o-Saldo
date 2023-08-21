@@ -19,11 +19,11 @@ Saída
 Exemplos
 A tabela abaixo apresenta exemplos com alguns dados de entrada e suas respectivas saídas esperadas. Certifique-se de testar seu programa com esses exemplos e com outros casos possíveis.
 
-<p>Entrada	Saída
-1000
-500
-200
-Saldo atualizado na conta: 1300.0</p>
+<p>Entrada	Saída</p>
+<p>1000</p>
+<p>500</p>
+<p>200</p>
+<p>Saldo atualizado na conta: 1300.0 </p>
 <p>100
 10
 50	
