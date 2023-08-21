@@ -25,11 +25,11 @@ A tabela abaixo apresenta exemplos com alguns dados de entrada e suas respectiva
 <p>200</p>
 <p>Saldo atualizado na conta: 1300.0 </p>
 <p>100
-10
-50	
-Saldo atualizado na conta: 60.0</p>
-<p>4000
-1500
-200	
-Saldo atualizado na conta: 5300.0
+<p>10</p>
+<p>50</p>	
+<p>Saldo atualizado na conta: 60.0</p>
+<p>4000</p>
+<p>1500</p>
+<p>200</p>	
+<p>Saldo atualizado na conta: 5300.0
 </p></h4>
